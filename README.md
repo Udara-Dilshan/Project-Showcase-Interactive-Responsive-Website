@@ -22,15 +22,6 @@ A fully functional, responsive, and interactive website built using **HTML, CSS 
 - A web browser (Chrome, Firefox, etc.).
 - Code editor (VS Code, Sublime Text, etc.).
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Interactive-Responsive-Website.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd Interactive-Responsive-Website
-   ```
 
 ### Usage
 - Open `index.html` in your browser to view the website.
