@@ -36,7 +36,7 @@ A fully functional, responsive, and interactive website built using **HTML, CSS 
      ```
 
 ## 🌐 Live Demo  
-[View Live Demo](https://your-username.github.io/Interactive-Responsive-Website)  
+[View Live Demo](https://udara-dilshan.github.io/Project-Showcase-Interactive-Responsive-Website/)  
 
 
 ## 📜 License
